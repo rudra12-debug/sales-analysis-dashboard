@@ -1,1 +1,1 @@
-This is a predesigned set of code to analysie the sale of a company... you just need to upload your csv file and it will generate the analysis dashboard automatically 
+This is a pre-designed codebase to analyze a company’s sales data. Simply upload a CSV file, and the system will automatically generate an interactive sales analysis dashboard.
